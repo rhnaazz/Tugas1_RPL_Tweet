@@ -1,0 +1,193 @@
+.tweet-box-content{
+    height: 200px;
+    background-color:#C2EDFF;
+    width: 100%;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    overflow: hidden;
+    border-radius: 3px;
+
+}
+
+.tweetbox-message-input-area{
+height: 60%;
+/* background-color: brown; */
+width: 100%;
+display: block;
+position: relative;
+}
+
+.tweetbox-message-input-area-inner{
+margin: 10px;
+background-color: whitesmoke;
+height: auto;
+width: auto;
+position: absolute;
+top: 10px;  
+right: 15px;
+left: 5px;
+bottom:5px ;
+border-radius: 10px;
+border: 2px solid #2793d5;
+}
+
+.tweetbox-toolbar-area{
+height: 40%;
+/* background-color: rgb(227, 16, 255); */
+width: 100%;
+display: block;
+overflow: hidden;
+}
+
+.tweetbox-user-icon-col{
+    float: left;
+    width: 16%;
+    height: 100%;
+    overflow: hidden;
+    /* background-color: rgb(255, 247, 0); */
+    overflow: hidden;
+}
+
+.tweetbox-user-icon{
+    height: 40px;
+    width: 40px;
+    margin-top: 17px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background-color: red;
+    border-radius: 20px;
+    float: right;
+}
+
+.tweetbox-user-icon img{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.tweetbox-message-content{
+float: right;
+width: 82%;
+margin-top: 12px;
+/* overflow: hidden; */
+height: 100%;
+
+}
+
+.tweetbox-toolbar-area-left{
+width: 50%;
+height: 100%;
+/* background-color: blue; */
+float: left;
+/* overflow: hidden; */
+}
+
+.tweetbox-toolbar-area-right{
+    width: 50%;
+    height: 100%;
+    /* background-color: red; */
+    /* overflow: hidden; */
+    float: right;
+}
+
+.tweetbox-toolbar-area-left-col1{
+    width: 61.5px;
+    height: 100%;
+    /* background-color: rgb(23, 91, 91); */
+    float: left;
+}
+
+.tweetbox-toolbar-area-left-col2{
+    width: 61.5px;
+    height: 100%;
+    /* background-color: rgb(76, 159, 31); */
+    float: left;
+}
+.tweetbox-toolbar-area-left-col3{
+    width: 61.5px;
+    height: 100%;   
+    /* background-color: rgb(51, 91, 91); */
+    float: left;
+}
+.tweetbox-toolbar-area-left-col4{
+    width: 61.5px;
+    height: 100%;
+    /* background-color: rgb(70, 26, 166); */
+    float: left;
+}
+
+.tweetbox-toolbar-area-right-col1{
+    width: 80px;
+    height: 100%;
+    float: right;
+    /* background-color: #ddd; */
+    position: relative;
+}
+
+.tweetbox-toolbar-area-right-col2{
+    width: 51.5px;
+    height: 100%;
+    float: right;
+   /* background-color:black; */
+}
+
+.tweetbox-toolbar-area-left-col1 img{
+width: 30px;
+height: auto;
+margin-left: 15px;
+}
+.tweetbox-toolbar-area-left-col2 img{
+    width: 30px;
+    height: auto;
+    margin-left: 15px;
+    
+    }
+    .tweetbox-toolbar-area-left-col3 img{
+        width: 30px;
+        height: auto;
+        margin-left: 15px;
+        
+        }
+        .tweetbox-toolbar-area-left-col4 img{
+            width: 30px;
+            height: auto;
+            margin-left: 15px;
+            
+            }
+
+.tweetbox-toolbar-area-right-col1-button{
+     width: 75px;
+     background-color: rgba(9, 183, 246, 0.673);
+    border-radius: 20px;    
+    box-shadow: 1px 1px 3px #e1e1e1; 
+    text-align: center;
+    font-size: 1em;
+    color: white;
+    font-weight: 350;
+    height: 27px;
+    /* margin-top: px; */
+    position: absolute;
+    top: 0px;
+    right: px;
+    bottom: 10px;
+    left: 0px;
+    line-height: 28px; 
+}
+.tweetbox-toolbar-area-right-col1-button:hover{
+    background-color: #298be692;
+    cursor: pointer;
+}
+
+.tweetbox-toolbar-area-right-col2 img{
+    width: 30px;
+    height: auto;
+    margin-left: 10px ;
+}
+
+
+.tweetbox-toolbar-area-left-col1{
+    cursor: pointer;
+}
+
+
+

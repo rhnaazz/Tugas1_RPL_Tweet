@@ -1,0 +1,42 @@
+.profile-navbar-col1{
+    width: 200px;
+    margin-right: 10px;
+    height: 100%;
+    float: left;
+    /* background-color: white; */
+   
+    }
+    
+.profile-navbar-col2{
+        width: 60px;
+        margin-right: 10px;
+        height: 100%;
+        float: left;
+        /* background-color: white; */
+       
+        }
+          
+.profile-navbar-col3{
+    width: 160px;
+    height: 100%;
+    float: left;
+    
+    /* background-color:white ; */
+    position: relative;
+    /* margin-left: -2px; */
+    
+    }
+
+.logo{
+    margin: 0px auto 0px auto;
+    /* background-color: rgb(235, 199, 42); */
+    width: 60px;
+    height: 60px;    
+}
+
+
+.logo img{
+   width: 30px;
+   margin-top: 13px;
+   margin-left: 15px;
+}
